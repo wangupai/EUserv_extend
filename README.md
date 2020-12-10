@@ -28,7 +28,7 @@ PASSWORD: 第一个账户密码,第二个账户密码
 
 1、若使用Github Actions运行本脚本，将会公开你的账号中VPS个数以及VPS的ID（**Contract**）
 
-（本项目目前每月会自动向仓库提交commit，Workflow应该不会被自动暂停了）
+2、随便改动一下readme,即可触发自动续费。（本项目目前每月会自动向仓库提交commit，Workflow应该不会被自动暂停了）
 
 ## 参考（及本文档）
 
